@@ -1,7 +1,9 @@
-### Olá, tudo bem? Este é o perfil de Alisson Rosa, seja bem vindo!
+### Este é o perfil de Alisson Rosa, seja bem vindo!
 - 🌱 Atualmente estou aprendendo HTML / CSS3 / JS / ANGULAR e JAVA.
 - 🔭 Meus estudos têm como base o conteúdo do Bootcamp Fullstack developer do Santender.
-- 🌱 Lifelong learning.
+- 📚 Lifelong learning.
+
+##
 
 <div>
   <a href="https://github.com/Alisson-AR">
